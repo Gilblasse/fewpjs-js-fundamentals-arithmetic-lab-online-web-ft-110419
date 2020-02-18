@@ -1,5 +1,5 @@
-num1 =
-num2 = 
+num1 = 31
+num2 = 2
 multiply = num1 * num2
 random = Math.floor(Math.random() * 10)
 mod = 53 % 7
