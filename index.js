@@ -1,7 +1,7 @@
-num1 = 31
-num2 = 2
-multiply = num1 * num2
-random = Math.floor(Math.random() * 10)
-mod = 53 % 7
-max = Math.max(1,20,3,5)
+let num1 = 31
+let num2 = 2
+const multiply = num1 * num2
+const random = Math.floor(Math.random() * 10)
+const mod = 53 % 7
+const max = Math.max(1,20,3,5)
 // Write your code here
